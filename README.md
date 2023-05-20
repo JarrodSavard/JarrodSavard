@@ -16,6 +16,12 @@ I believe that my self-taught background, combined with my practical experience 
 
 ## Skills
 
+[![JavaScript](https://example.com/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://example.com/typescript.png)](https://www.typescriptlang.org/docs/)
+[![Python](https://example.com/python.png)](https://docs.python.org/3/)
+[![React](https://example.com/react.png)](https://reactjs.org/docs/)
+[![Node.js](https://example.com/nodejs.png)](https://nodejs.org/en/docs/)
+
 -   Programming Languages: JavaScript, TypeScript, Python, C#, Rust
 -   Web Development: HTML, CSS, React, Next.js, SvelteKit
 -   Mobile Development: React Native
