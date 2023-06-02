@@ -48,6 +48,8 @@ I believe that my self-taught background, combined with my practical experience 
 
 <br />
 <br />
+<br />
+<br />
 
 ### Certifications
 
