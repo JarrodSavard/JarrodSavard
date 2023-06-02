@@ -3,12 +3,10 @@
 **`Software Engineer (Frontend/Backend/Fullstack)`**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jarrod-savard">LinkedIn Profile</a> •
-  <a href="https://www.jarrodsavard.com">Portfolio Website</a> •
+  <a href="https://www.linkedin.com/in/jarrod-savard" target="_blank" rel="noopener noreferrer" >LinkedIn Profile</a> •
+  <a href="https://www.jarrodsavard.com" target="_blank" rel="noopener noreferrer" >Portfolio Website</a> •
   <a href="#">Location: Torrance, CA</a>
 </p>
-
-## About Me
 
 I'm a self-taught software developer with a strong passion for programming. I have honed my skills in JavaScript, TypeScript, and Python through dedicated self-study and practical projects. This self-directed learning has allowed me to gain a deep understanding of these languages and their respective ecosystems.
 
@@ -18,7 +16,16 @@ Being self-taught has instilled in me a strong sense of curiosity and a drive fo
 
 I believe that my self-taught background, combined with my practical experience and proficiency in JavaScript, TypeScript, and Python, equips me with a unique perspective and a strong foundation for tackling complex software development projects.
 
-## Skills
+### 🧰 Languages and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="cSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+
+<br />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 
 -   Programming Languages: JavaScript, TypeScript, Python, C#, Rust
 -   Web Development: HTML, CSS, React, Next.js, SvelteKit
