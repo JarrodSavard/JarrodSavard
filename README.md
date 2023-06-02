@@ -48,7 +48,7 @@ I believe that my self-taught background, combined with my practical experience 
 <br />
 <br />
 
-## Certifications
+### Certifications
 
 -   Meta Front-End Professional Developer
 -   Mastering OpenAI Python APIs: Unleash ChatGPT and GPT4
