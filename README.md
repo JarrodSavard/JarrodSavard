@@ -1,16 +1,20 @@
-# Jarrod Savard
+# ☕ Jarrod Savard
 
--   Location: Torrance, CA
--   LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jarrod-savard)
--   Portfolio: [Portfolio Website](https://www.jarrodsavard.com)
+**`Software Engineer (Frontend/Backend/Fullstack)`**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jarrod-savard">LinkedIn Profile</a> •
+  <a href="https://www.jarrodsavard.com">Portfolio Website</a> •
+  <a href="#">Location: Torrance, CA</a>
+</p>
 
 ## About Me
 
-I am a self-taught software developer with a strong passion for programming. I have honed my skills in JavaScript, TypeScript, and Python through dedicated self-study and practical projects. This self-directed learning has allowed me to gain a deep understanding of these languages and their respective ecosystems.
+I'm a self-taught software developer with a strong passion for programming. I have honed my skills in JavaScript, TypeScript, and Python through dedicated self-study and practical projects. This self-directed learning has allowed me to gain a deep understanding of these languages and their respective ecosystems.
 
 Throughout my journey, I have actively sought out resources, online courses, and documentation to expand my knowledge and stay up-to-date with industry best practices. By leveraging online communities and participating in open-source projects, I have cultivated a solid foundation in software development principles and techniques.
 
-Being self-taught has instilled in me a strong sense of curiosity and a drive for continuous learning. I embrace challenges and enjoy pushing the boundaries of my knowledge to develop innovative solutions. My self-motivation and adaptability have enabled me to thrive in fast-paced, dynamic environments, where I am constantly seeking opportunities to grow and excel.
+Being self-taught has instilled in me a strong sense of curiosity and a drive for continuous learning. I embrace challenges and enjoy pushing the boundaries of my knowledge to develop innovative solutions. My self-motivation and adaptability have enabled me to thrive in fast-paced, dynamic environments, where I'm constantly seeking opportunities to grow and excel.
 
 I believe that my self-taught background, combined with my practical experience and proficiency in JavaScript, TypeScript, and Python, equips me with a unique perspective and a strong foundation for tackling complex software development projects.
 
