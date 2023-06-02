@@ -51,7 +51,7 @@ I believe that my self-taught background, combined with my practical experience 
 <br />
 <br />
 
-### Certifications
+### 📜 Certifications
 
 -   🎓 Meta Front-End Professional Developer
 -   🎓 Mastering OpenAI Python APIs: Unleash ChatGPT and GPT4
@@ -67,3 +67,9 @@ I believe that my self-taught background, combined with my practical experience 
 -   🎓 Complete Machine Learning & Data Science Bootcamp
 -   🎓 Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 -   🎓 Modern JavaScript (from Novice to Ninja)
+
+### 📊 Stats
+
+![Jarrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarrodSavard&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JarrodSavard&theme=gruvbox&border_radius=4.5)
