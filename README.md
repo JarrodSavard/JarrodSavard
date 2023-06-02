@@ -50,17 +50,17 @@ I believe that my self-taught background, combined with my practical experience 
 
 ### Certifications
 
--   Meta Front-End Professional Developer
--   Mastering OpenAI Python APIs: Unleash ChatGPT and GPT4
--   JavaScript Algorithms and Data Structures Masterclass
--   Complete Web & Mobile Designer: UI/UX, Figma
--   JavaScript - The Complete Guide (Beginner + Advanced)
--   Complete Python Developer: Zero to Mastery
--   React Testing Library and Jest: The Complete Guide
--   NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
--   Next.js & React - The Complete Guide
--   Web Security & Bug Bounty: Learn Penetration Testing
--   React Native - The Practical Guide
--   Complete Machine Learning & Data Science Bootcamp
--   Advanced CSS and Sass: Flexbox, Grid, Animations and More!
--   Modern JavaScript (from Novice to Ninja)
+-   🎓 Meta Front-End Professional Developer
+-   🎓 Mastering OpenAI Python APIs: Unleash ChatGPT and GPT4
+-   🎓 JavaScript Algorithms and Data Structures Masterclass
+-   🎓 Complete Web & Mobile Designer: UI/UX, Figma
+-   🎓 JavaScript - The Complete Guide (Beginner + Advanced)
+-   🎓 Complete Python Developer: Zero to Mastery
+-   🎓 React Testing Library and Jest: The Complete Guide
+-   🎓 NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+-   🎓 Next.js & React - The Complete Guide
+-   🎓 Web Security & Bug Bounty: Learn Penetration Testing
+-   🎓 React Native - The Practical Guide
+-   🎓 Complete Machine Learning & Data Science Bootcamp
+-   🎓 Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+-   🎓 Modern JavaScript (from Novice to Ninja)
