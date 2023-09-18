@@ -48,11 +48,6 @@ I believe that my self-taught background, combined with my practical experience 
 
 <br />
 <br />
-
-![Jarrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarrodSavard&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JarrodSavard&theme=gruvbox&border_radius=4.5)
-
 <br />
 <br />
 
