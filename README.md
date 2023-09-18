@@ -1,6 +1,6 @@
 # ☕ Jarrod Savard
 
-**`Software Engineer (Frontend/Backend/Fullstack)`**
+**`Principal Software Engineer (Frontend/Backend/Fullstack)`**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jarrod-savard" target="_blank" rel="noopener noreferrer" >LinkedIn Profile</a> •
